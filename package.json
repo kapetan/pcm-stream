@@ -1,0 +1,30 @@
+{
+  "name": "pcm-stream",
+  "version": "1.0.0",
+  "description": "A transform stream for converting audio encoded as 32-bit floats to 16-bit intergers",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapetan/pcm-stream.git"
+  },
+  "keywords": [
+    "audio",
+    "pcm",
+    "wave",
+    "float",
+    "16-bit",
+    "stream"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapetan/pcm-stream/issues"
+  },
+  "homepage": "https://github.com/kapetan/pcm-stream#readme",
+  "devDependencies": {
+    "concat-stream": "^1.5.1",
+    "tape": "^4.2.2"
+  }
+}
