@@ -1,6 +1,6 @@
 # pcm-stream
 
-A transform stream for converting audio encoded as 32-bit floats to 16-bit intergers.
+A transform stream for converting audio encoded as 32-bit floats to 16-bit integers.
 
 	npm install pcm-stream
 
